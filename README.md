@@ -50,7 +50,7 @@ The cleaned data is then exported to **Tableau** in order explore, create visual
 
 ![](./Dashboard%201.png)
 
-You can click on this [Link](https://public.tableau.com/app/profile/israel.joseph/viz/SCIENCELABORATORYTECNOLOGYWHATSAPPGROUPCHATANALYSIS/Dashboard1) to explore the dashboard.
+You can click on this [Link](https://public.tableau.com/app/profile/israel.joseph/viz/SCIENCELABORATORYTECNOLOGYWHATSAPPGROUPCHATANALYSIS_16894569731240/Dashboard1?publish=yes) to explore the dashboard.
 
 ## Insights
 
