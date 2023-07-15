@@ -1,3 +1,4 @@
+
 # WhatsApp Group Chat Analysis
     
 Text data from a whatsapp group chat is used to create a dashboard in **Tableau**. The data is cleaned and transformed with **Python**, the cleaned data is then saved and exported as a CSV file to **Tableau** to create a dashboard. This project involves analysing a departmental class group chat(**General** group chat) that's having three options in it and those options have their own group chats, this Options are the **BST**, **CPT** & **MBT** 
