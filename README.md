@@ -47,8 +47,7 @@ The WhatsApp Chat data was collected from 3 students, the "WhatsApp_Chat_with_UJ
 
 The cleaned data is then exported to **Tableau** in order explore, create visualisation and build an interactive dashboard.
 
-
-![](./Dashboard%201.png)
+![](./Dashboard.png)
 
 You can click on this [Link](https://public.tableau.com/app/profile/israel.joseph/viz/SCIENCELABORATORYTECNOLOGYWHATSAPPGROUPCHATANALYSIS_16894569731240/Dashboard1?publish=yes) to explore the dashboard.
 
